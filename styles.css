@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-rows: 5% 23% 23% 23% 21% 5%;
+    height: 100vh;
+}
+header{
+    display: grid;
+    grid-template-columns: 50% 10% 10% 10% 20%;
+    background-color: #1F2937;
+}
+.head{
+    margin: 0;
+    padding: 0;
+    padding-top: .5%;
+    text-align: center;
+    padding-right: 30%;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.anchor{
+    padding-top: 4%;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+.secone{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
